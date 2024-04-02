@@ -25,7 +25,6 @@ mpmath==1.3.0
 mysqlclient==2.2.4
 networkx==3.2.1
 numpy==1.26.4
-openai==1.14.3
 packaging==24.0
 pillow==10.2.0
 psutil==5.9.8
