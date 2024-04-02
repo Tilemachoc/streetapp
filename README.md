@@ -4,7 +4,7 @@
 
 - **Web Application**: Built with Django
 - **Databases**: Utilized Django ORM
-- **AI Integration**: Leveraged OPENAI API for responses
+- **AI Integration**: Leveraged `mistralai/Mistral-7B-Instruct-v0.1` | `mistralai/Mixtral-8x7B-Instruct-v0.1` HuggingFace 🤗 models
 - **Embeddings Model**: Employed the `intfloat/e5-large-v2` HuggingFace 🤗 model
 
 ### Guide:
